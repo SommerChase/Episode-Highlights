@@ -8,13 +8,55 @@ Topic: Engineers love to over-engineer. Once something becomes standardized and 
 
 Thoughts: As my wife and I were driving to meet up with friends, and I was listening to this podcast, she looked at me and said, "This is sooooo you." You know you're an engineer at heart if you want to over-complicate something that could be done in a much simpler way...lol
 
+---
+
 9:55 - 10:33
 
 Topic: People think, "I must do the most complicated thing I can do to get hired in ML." But instead, show actual progress and what you'd achieved - don't focus on how you got there.
 
 Thoughts: As someone who is trying to get into ML, I feel this pain of wanting to do the most complicated thing I can to show people that I havewhat it takes to get hired. However, whenever I try this, I usually fail to complete the project. So yes, getting a simpler and easier project complete is better than a super complex and hard unfished project.
 
+---
+
 10:55 - 11:08
 
 Topic: It is hard, but you must fight to keep things simple in business-critial systems.
 
+---
+
+13:04 - 14:02
+
+Topic: Write a press release of what you plan to build before you start. This will help you understand if your idea is lackluster or if it's really cool and impactful.
+
+Thoughts: If I were to guess, I'd say his mentor is from Amazon. I believe they do this with each new product. 
+
+https://productcoalition.com/the-product-pre-mortem-d466237f6b7a
+https://eugeneyan.com/writing/what-i-do-before-a-data-science-project-to-ensure-success/
+https://medium.com/bluesoft-labs/try-an-internal-press-release-before-starting-new-products-867703682934
+
+---
+
+18:46 - 19:19
+
+Topic: Automation is safer because it prevents oddly specific tribal knowledge from disappearing forever.
+
+30:33 - 33:17
+
+Topic: Operational excellence & regular maintenance of models
+
+Thoughts: It seems as though there's an assumption that models are deployed and then there's no need for maintenance - a static thing. If anything ML, is the opposite of static and must be updated more than traditional software because it depends on both code and data - and data changes.
+
+"...tending to the garden and trimming the weeds..." -34:01
+and ML gardener lol
+
+37:04 - 38:00
+
+Topic: For reproducibility, be sure to create a job that grabs fresh training data for your model on a regular basis. Also, be sure to have some simple analytics to make sure the data is of good quality. Lastly, create an alert to let you know when it breaks.
+
+38:06 -
+
+Topic: Related to 37:04 - 38:00, create an automated training workflow.
+
+40:40 - 41:08
+
+Topic: Biggest risks of ML is that the person who made it is no longer around and not knowing how to fix it. By creating automated jobs for gathering data and training models, you give ownership to a team and not a single person. Now, the risk of one person leaving is mitigated.
