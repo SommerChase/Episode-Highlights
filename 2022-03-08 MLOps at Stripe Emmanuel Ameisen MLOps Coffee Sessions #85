@@ -2,7 +2,9 @@ MLOps at Stripe // Emmanuel Ameisen // MLOps Coffee Sessions #85
 
 https://www.youtube.com/watch?v=L8WQBYCRaGc&t=9s
 
-8:35 - 9:13 
+8:35 - 9:13
+
+Clip: https://youtube.com/clip/Ugkxe7yJXlq5HBEixNMtQmTAM8pgs917rQo2
 
 Topic: Engineers love to over-engineer. Once something becomes standardized and less shiny, they move on to the next shiny thing.
 
@@ -12,6 +14,8 @@ Thoughts: As my wife and I were driving to meet up with friends, and I was liste
 
 9:55 - 10:33
 
+Clip: https://youtube.com/clip/UgkxN_KwECP5HMFzuBUW-ECefBdJ_ltLGVMx
+
 Topic: People think, "I must do the most complicated thing I can do to get hired in ML." But instead, show actual progress and what you'd achieved - don't focus on how you got there.
 
 Thoughts: As someone who is trying to get into ML, I feel this pain of wanting to do the most complicated thing I can to show people that I havewhat it takes to get hired. However, whenever I try this, I usually fail to complete the project. So yes, getting a simpler and easier project complete is better than a super complex and hard unfished project.
@@ -20,11 +24,15 @@ Thoughts: As someone who is trying to get into ML, I feel this pain of wanting t
 
 10:55 - 11:08
 
+Clip: https://youtube.com/clip/UgkxwajCT36oxiBygC0__lZLggczKMdGd53N
+
 Topic: It is hard, but you must fight to keep things simple in business-critial systems.
 
 ---
 
 13:04 - 14:02
+
+Clip: https://youtube.com/clip/UgkxBP92rrTTocMWoCjMYEFfhOM8v_9uiobN
 
 Topic: Write a press release of what you plan to build before you start. This will help you understand if your idea is lackluster or if it's really cool and impactful.
 
@@ -36,11 +44,17 @@ https://medium.com/bluesoft-labs/try-an-internal-press-release-before-starting-n
 
 ---
 
-18:46 - 19:19
+18:44 - 19:19
+
+Clip: https://youtube.com/clip/Ugkx4mSau3OKTKsBHPLn2TcKQDuZmkBV37EF
 
 Topic: Automation is safer because it prevents oddly specific tribal knowledge from disappearing forever.
 
+---
+
 30:33 - 33:17
+
+Clip: Too long for YouTube clips (1 min max)
 
 Topic: Operational excellence & regular maintenance of models
 
@@ -49,14 +63,26 @@ Thoughts: It seems as though there's an assumption that models are deployed and 
 "...tending to the garden and trimming the weeds..." -34:01
 and ML gardener lol
 
+Clip: https://youtube.com/clip/Ugkx6sh2tmSr1_CXhJTBZc89SX6sEtk0JNVe
+
+---
+
 37:04 - 38:00
 
+Clip: https://youtube.com/clip/UgkxOVdLVnThzcNM5lB9NA1jnsWQekzBuIgm
+
 Topic: For reproducibility, be sure to create a job that grabs fresh training data for your model on a regular basis. Also, be sure to have some simple analytics to make sure the data is of good quality. Lastly, create an alert to let you know when it breaks.
+
+---
 
 38:06 -
 
 Topic: Related to 37:04 - 38:00, create an automated training workflow.
 
+---
+
 40:40 - 41:08
+
+Clip: https://youtube.com/clip/UgkxT62ZtZDDNur5f1sMYK1dSEp-jUljxw25
 
 Topic: Biggest risks of ML is that the person who made it is no longer around and not knowing how to fix it. By creating automated jobs for gathering data and training models, you give ownership to a team and not a single person. Now, the risk of one person leaving is mitigated.
